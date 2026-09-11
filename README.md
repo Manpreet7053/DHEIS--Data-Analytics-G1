@@ -30,7 +30,7 @@
 <h2 style="color:#333;"> Course Details </h2>
 <div align="left" style="margin: 20px; font-size: 16px;">
     <p><strong>Course Opted:</strong> Data Analytics </p>
-    <p><strong>Instructor Name:</strong> Nithyasri kannathal and Bhargavesh Dakka </p>
+    <p><strong>Instructor Name:</strong> Ms. Nithyasri kannathal and Mr. Bhargavesh Dakka </p>
 </div>
 <div align="left" style="margin: 20px; font-size: 16px;">
     <p><strong>Duration:</strong> 6 Months </p>
