@@ -40,11 +40,21 @@
 <h2 style="color:#333;"> Trainer Details </h2>
 <div align="left" style="margin: 20px; font-size: 16px;">
 
-<p><strong>Trainer Name:</strong> Nithyasri kannathal </p>
+<p><strong>Trainer Name:</strong>Ms. Nithyasri kannathal </p>
 <p><strong>Trainer Email ID:</strong> <!–– Add trainer email ––></p>
 <p><strong>Trainer Designation:</strong> SDE at Predigle</p>
 
 <hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
+
+<h2 style="color:#333;"> Trainer Details </h2>
+<div align="left" style="margin: 20px; font-size: 16px;">
+
+<p><strong>Trainer Name:</strong> Mr. Bhargavesh Dakka </p>
+<p><strong>Trainer Email ID:</strong> bhargaveshdakka@gmail.com</p>
+<p><strong>Trainer Designation:</strong> GenAI Consultant at Deloitte </p>
+
+<hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
+
 
 ## **Table of Contents**
 - [Overall Learning](#overall-learning)
@@ -142,19 +152,14 @@ For this project, responsibilities included:
 
 ## **Project Report**
 
-The detailed project report follows the SURE Trust project-report structure and covers:
+The complete project documentation, source code, and deployed application are maintained separately.
 
-1. Executive Summary
-2. Introduction
-3. Project Objectives
-4. Methodology & Results
-5. Social / Industry Relevance
-6. Learning & Reflection
-7. Future Scope & Conclusion
+**GitHub Repository:**  
+(https://github.com/Manpreet7053/DHEIS)
 
-<p>
-  <a href="https://github.com/sure-trust/MANPREET-KAUR-g1-data-analytics/blob/5fa4e8afa018f535c56a33a4dd09b90e490242a3/Final%20capstone%20project/DHEIS%20Project%20Report.pdf" target="_blank"><strong>→ Detailed report</strong></a>
-</p>
+**Live Streamlit Application:**  
+(https://dheis-app.streamlit.app/)
+
 ---
 
 
@@ -163,9 +168,14 @@ The detailed project report follows the SURE Trust project-report structure and 
 - [Kaggle](https://www.kaggle.com/datasets)
 - [Microsoft Excel official support](https://support.microsoft.com/en-us/excel)
 - [Python Official Documentation](https://docs.python.org/3/)
+- [NumPy Documentation](https://numpy.org/doc/)
+- [Pandas Documentation](https://pandas.pydata.org/docs/)
 - [Databricks Documentation](https://docs.databricks.com/aws/en/)
 - [Streamlit documentation](https://docs.streamlit.io/)
 - [Visiual Studio Code Documentation](https://code.visualstudio.com/docs)
+- [GitHub](https://github.com/)
+- [Groq Documentation](https://console.groq.com/docs/)
+
 
 ---
 
@@ -196,24 +206,19 @@ I also spent time helping 8 senior citizens with simple daily tasks and providin
 
 Through these activities, I was able to contribute to both environmental improvement and community well-being. The experience helped me develop a greater sense of social responsibility, empathy, communication, and coordination. It also taught me that even small efforts can make a positive difference in the lives of others and in the environment.
 
-### **Photos**
+### LinkedIn Post
 
-<!-- add your photos below -->
-<!-- change url below with your image urls (inside  src='')-->
+I shared my community-service contribution on LinkedIn as part of the internship documentation.
 
-- These are just placeholder (sample) images <!-- remove this line -->
+**→ [View My Community Service Post on LinkedIn](https://www.linkedin.com/feed/update/urn:li:groupPost:14430462-7503040837019271170?rcm=ACoAAGOHITIBH1VghwWR54jtdDmrX4roWMzObBY)**
 
-<div align="center">
-<img src="https://media.licdn.com/dms/image/v2/D561FAQEJNBia4UCa5w/feedshare-document-images_800/B56Zm5b6SJJkAg-/1/1759752731458?e=1766016000&v=beta&t=7GABy91-0FNbir386wPdJ-Grr385JzS3tR5LQIw1CWg" alt="Community Service Photo 1" width="30%">
-<img src="https://media.licdn.com/dms/image/v2/D561FAQEJNBia4UCa5w/feedshare-document-images_800/B56Zm5b6SJJkAg-/2/1759752731458?e=1766016000&v=beta&t=6RfJQWWqlQUPcCvDnQNW7kR6yf7w-wPDsIPxum409ck" alt="Community Service Photo 2" width="30%">
-<img src="https://media.licdn.com/dms/image/v2/D561FAQEJNBia4UCa5w/feedshare-document-images_800/B56Zm5b6SJJkAg-/3/1759752731458?e=1766016000&v=beta&t=yWaunKdRdLUKBLbmM3UjRYYz-_GSCfWEQ3_R7dW0xLM" alt="Community Service Photo 3" width="30%">
-</div>
+---
 
 ---
 
 ## **Certificate**
 
-The internship certificate serves as an official acknowledgment of the successful completion of my training period. It will be issued by the organization upon fulfilling all required tasks and meeting the performance expectations of the program. The certificate validates the skills, experience, and contributions made during the internship.
+The internship certificate serves as an official acknowledgment of the successful completion of my training period and the work undertaken during the program.
 
 <!-- add your certificate image url below (inside src='')-->
 
@@ -226,6 +231,11 @@ The internship certificate serves as an official acknowledgment of the successfu
 ## **Acknowledgments**
 
 <!-- you can add Acknowledgments over here in same syntax as below . eg trainer name , company name , role etc -->
+I would like to express my sincere gratitude to **SURE ProEd (formerly SURE Trust)** for providing me with the opportunity to participate in this internship and gain practical exposure to programming, data analytics, machine learning, and related technologies.
+
+I am thankful to the instructors, trainers, mentors, and coordinators for their guidance, support, and valuable feedback throughout the internship.
+
+I also appreciate the opportunity to work on practical exercises and projects, which helped me connect theoretical concepts with real-world applications and develop a more structured approach to solving technical problems.
 
 - [Prof. Radhakumari Challa](https://www.linkedin.com/in/prof-radhakumari-challa-a3850219b) , Executive Director and Founder - [SURE Trust](https://www.suretrustforruralyouth.com/)
 - [Bhargavesh Dakka ](https://www.linkedin.com/in/bhargavesh-dakka?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BohUAicAnQwe%2BwOlgYEsmXg%3D%3D) , Gen AI Consultant at Deloitte
