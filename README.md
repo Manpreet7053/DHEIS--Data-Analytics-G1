@@ -154,10 +154,10 @@ For this project, responsibilities included:
 The complete project documentation, source code, and deployed application are maintained separately.
 
 **GitHub Repository:**  
-(https://github.com/Manpreet7053/DHEIS)
+https://github.com/Manpreet7053/DHEIS--Data-Analytics-G1
 
 **Live Streamlit Application:**  
-(https://dheis-app.streamlit.app/)
+https://dheis-app.streamlit.app/
 
 ---
 
