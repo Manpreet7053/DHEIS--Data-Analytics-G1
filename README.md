@@ -44,7 +44,6 @@
 <p><strong>Trainer Email ID:</strong> <!–– Add trainer email ––></p>
 <p><strong>Trainer Designation:</strong> SDE at Predigle</p>
 
-<hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
 
 <h2 style="color:#333;"> Trainer Details </h2>
 <div align="left" style="margin: 20px; font-size: 16px;">
