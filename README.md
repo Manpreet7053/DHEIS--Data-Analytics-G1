@@ -93,7 +93,7 @@ Overall, the internship helped me strengthen my technical, analytical, problem-s
 
 </p>
 <p>
-  <a href="https://github.com/sure-trust/MANPREET-KAUR-g1-data-analytics/blob/5fa4e8afa018f535c56a33a4dd09b90e490242a3/Final%20capstone%20project/DHEIS%20Project%20Report.pdf" target="_blank"><strong>→ View Full Project Report</strong></a>
+  <a href="https://github.com/Manpreet7053/District-Health-Education-Intelligence-System/blob/c82f11baf44b09ccbaa5842f25d66d9757c1658c/DHEIS%20Project%20Report.pdf" target="_blank"><strong>→ View Full Project Report</strong></a>
 </p>
 
 <hr style="height:1px; border-top:1px solid #ccc; width:80%;" />
