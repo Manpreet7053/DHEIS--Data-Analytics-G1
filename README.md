@@ -209,7 +209,7 @@ Through these activities, I was able to contribute to both environmental improve
 
 I shared my community-service contribution on LinkedIn as part of the internship documentation.
 
-**→ [View My Community Service Post on LinkedIn](https://www.linkedin.com/feed/update/urn:li:groupPost:14430462-7503040837019271170?rcm=ACoAAGOHITIBH1VghwWR54jtdDmrX4roWMzObBY)**
+**→ [View My Community Service Post on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7504372008508567552?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD2wGa8BIlocHGWRHLXsze3BPN0qv2kPlYU)**
 
 ---
 
